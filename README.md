@@ -7,4 +7,7 @@ Tim Buchalka
 https://github.com/tim-buchalka
 
 Jean-Paul Roberts
+https://www.linkedin.com/in/jpwroberts/
+
+Link to the course
 https://www.udemy.com/python-the-complete-python-developer-course/
